@@ -29,7 +29,7 @@
 		"dppx": 2
 	},
 	{
-		"name": "Apple iPhone 6",
+		"name": "Apple iPhone 6, 6S",
 		"w": 750,
 		"h": 1334,
 		"d": 4.7,
@@ -37,13 +37,13 @@
 		"dppx": 2
 	},
 	{
-		"name": "Apple iPhone 6 Plus",
+		"name": "Apple iPhone 6 Plus, 6S",
 		"w": 1080,
 		"h": 1980,
 		"d": 5.5,
 		"ppi": 401,
 		"dppx": 2.46
-	},		
+	},
 	{
 		"name": "Apple iPad mini",
 		"w": 1024,
